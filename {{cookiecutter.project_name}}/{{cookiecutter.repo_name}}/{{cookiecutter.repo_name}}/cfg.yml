@@ -1,0 +1,8 @@
+{
+# deps
+species_treep: database/ensembl_compara/Ensembl_Species_tree.newick,
+# data_raw
+# data_processed
+# data_annot
+# data_merge
+}

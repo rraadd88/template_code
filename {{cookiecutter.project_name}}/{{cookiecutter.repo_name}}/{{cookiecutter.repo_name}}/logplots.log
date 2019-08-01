@@ -1,0 +1,6 @@
+# IPython log file
+
+# import
+from rohan.global_imports import *
+logplotp=f'logplots.log'
+get_ipython().run_line_magic('logstart',f'{logplotp} over')
